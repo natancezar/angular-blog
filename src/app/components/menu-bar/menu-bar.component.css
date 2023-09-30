@@ -1,0 +1,7 @@
+.container__card_menu-bar{
+    margin: 1rem;
+}
+
+.container__card_menu-bar > a {
+    margin-right: 20px;
+}

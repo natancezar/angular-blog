@@ -8,7 +8,6 @@
 }
 
 .content__cover > img{
-    border: 5px solid #646464;
     border-radius: 5px;
     width: 500px;
     min-width: 500px;
@@ -19,5 +18,5 @@
 }
 
 .content__description > p{
-    color: rgb(168, 168, 168);
+    color: #a8a8a8;
 }

@@ -1,0 +1,19 @@
+.container__card-footer{
+    display: flex;
+    flex-direction: column;
+    background-color: #00000C;
+}
+
+.container__card-footer > hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-footer{
+    margin: auto;
+}
+
+.card-footer > p{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
